@@ -1,4 +1,4 @@
-# helm
+# HELM DEMO
 This repository used to practice helm demo
 
 # Create a release name as  app1-release and set source image for pod (Replace image name with your customized image)
