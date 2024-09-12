@@ -11,6 +11,5 @@ This repository used to practice helm demo
 #helm rollback app1-release 1
 
 # some helm commands
-#helm ls
-#helm history
-#helm status app1-release
+#helm ls && helm history && helm status app1-release
+
